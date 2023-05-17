@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xu, Mengyue 徐梦玥
+title: Xu, Mengyue
 
 # Full name (for SEO)
 first_name: Mengyue
