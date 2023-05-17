@@ -22,10 +22,7 @@ organizations:
     url: https://engineering.purdue.edu/oxidemems/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include
-Diamond/SiC integrated quantum photonics;
-Photonics integrated device and circuit in thin-film lithium niobate and heterogenous platforms;
-Build up multi-functional photonics integrated circuits on multi-material platforms.
+bio: My research interests include diamond/SiC integrated quantum photonics; Photonics integrated device and circuit in thin-film lithium niobate and heterogenous platforms; Build up multi-functional photonics integrated circuits on multi-material platforms.
 
 
 # Interests to show in About widget
