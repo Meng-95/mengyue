@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - Yuntao Zhu
-  - Fabio Pittal\`{a}
+  - Fabio Pittala
   - Jin Tang
   - Mingbo He
   - Wing Chau Ng
@@ -22,6 +22,7 @@ doi: 10.1364/OPTICA.449691
 publication: "*Optica, 9* (1) 61-62"
 draft: false
 featured: false
+
 image:
   filename: pdmiq.jpg
   focal_point: Center
