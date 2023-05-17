@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - Yuntao Zhu
-  - Fabio Pittala
+  - Fabio Pittal\`{a}
   - Jin Tang
   - Mingbo He
   - Wing Chau Ng
@@ -18,7 +18,7 @@ authors:
   - Siyuan Yu
   - Bofang Zheng
   - and Xinlun Cai
-publication: "*Optica, 9*(1) 61-62"
+publication: "*Optica, 9* (1) 61-62"
 draft: false
 featured: false
 image:
