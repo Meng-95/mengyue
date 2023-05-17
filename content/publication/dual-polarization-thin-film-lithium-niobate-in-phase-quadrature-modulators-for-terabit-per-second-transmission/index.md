@@ -22,7 +22,7 @@ publication: "*Optica, 9* (1) 61-62"
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: pdmiq.jpg
   focal_point: Smart
   preview_only: false
 date: 2023-05-17T23:15:40.798Z
