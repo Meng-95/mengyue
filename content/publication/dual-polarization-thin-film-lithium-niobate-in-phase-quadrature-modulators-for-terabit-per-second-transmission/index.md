@@ -18,12 +18,13 @@ authors:
   - Siyuan Yu
   - Bofang Zheng
   - and Xinlun Cai
+doi: 10.1364/OPTICA.449691
 publication: "*Optica, 9* (1) 61-62"
 draft: false
 featured: false
 image:
   filename: pdmiq.jpg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
 date: 2023-05-17T23:15:40.798Z
 ---
