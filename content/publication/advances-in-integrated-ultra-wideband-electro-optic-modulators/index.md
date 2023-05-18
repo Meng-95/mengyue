@@ -6,7 +6,7 @@ authors:
   - admin
   - Xinlun Cai
 doi: 10.1364/OE.449022
-publication: "*Optics Express 30*, 7253-7274 (2022)"
+publication: "*Optics Express 30*, 7253-7274"
 abstract: Increasing data traffic and bandwidth-hungry applications require
   electro-optic modulators with ultra-wide modulation bandwidth for
   cost-efficient optical networks. Thus far, integrated solutions have emerged
