@@ -1,5 +1,5 @@
 ---
-title: "Advances in integrated ultra-wideband electro-optic modulators "
+title: "Advances in integrated ultra-wideband electro-optic modulators"
 publication_types:
   - "2"
 authors:

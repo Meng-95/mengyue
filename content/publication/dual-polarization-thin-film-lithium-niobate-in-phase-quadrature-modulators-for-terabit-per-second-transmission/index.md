@@ -1,6 +1,6 @@
 ---
-title: Dual-polarization thin-film lithium niobate in-phase quadrature
-  modulators for terabit-per-second transmission
+title: "Dual-polarization thin-film lithium niobate in-phase quadrature
+  modulators for terabit-per-second transmission"
 publication_types:
   - "2"
 authors:

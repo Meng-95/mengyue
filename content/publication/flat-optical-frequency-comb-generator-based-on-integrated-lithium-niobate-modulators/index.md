@@ -1,6 +1,5 @@
 ---
-title: Flat Optical Frequency Comb Generator Based on Integrated Lithium Niobate
-  Modulators
+title: "Flat Optical Frequency Comb Generator Based on Integrated Lithium Niobate Modulators"
 publication_types:
   - "2"
 authors:
