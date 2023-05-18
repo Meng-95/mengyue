@@ -1,0 +1,30 @@
+---
+title: High-performance coherent optical modulators based on thin-film lithium
+  niobate platform
+publication_types:
+  - "2"
+doi: 10.1038/s41467-020-17806-0
+publication: Nature Communications
+abstract: The coherent transmission technology using digital signal processing
+  and advanced modulation formats, is bringing networks closer to the
+  theoretical capacity limit of optical fibres, the Shannon limit. The
+  in-phase/quadrature electro-optic modulator that encodes information on both
+  the amplitude and the phase of light, is one of the underpinning devices for
+  the coherent transmission technology. Ideally, such modulator should feature a
+  low loss, low drive voltage, large bandwidth, low chirp and compact footprint.
+  However, these requirements have been only met on separate occasions. Here, we
+  demonstrate integrated thin-film lithium niobate in-phase/quadrature
+  modulators that fulfil these requirements simultaneously. The presented
+  devices exhibit greatly improved overall performance (half-wave voltage,
+  bandwidth and optical loss) over traditional lithium niobate counterparts, and
+  support modulation data rate up to 320 Gbit s−1. Our devices pave new routes
+  for future high-speed, energy-efficient, and cost-effective communication
+  networks.
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2023-05-18T00:26:48.905Z
+---
