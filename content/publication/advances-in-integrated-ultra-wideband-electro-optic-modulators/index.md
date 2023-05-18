@@ -16,11 +16,11 @@ abstract: Increasing data traffic and bandwidth-hungry applications require
   optical systems. By comparing the superiority and mechanism limitations of
   different integrated modulators, we design a future roadmap based on the
   recent advances.
+url: "http://opg.optica.org/oe/abstract.cfm?URI=oe-30-5-7253"
+draft: false
 tags:
 - Electro-optic modulators
 - Optical communications
-url: "http://opg.optica.org/oe/abstract.cfm?URI=oe-30-5-7253"
-draft: false
 featured: false
 image:
   filename: featured

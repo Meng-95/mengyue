@@ -38,7 +38,6 @@ tags:
 - Electro-optic modulators
 - Thin-film lithium niobate
 - Coherent transmission
-draft: false
 featured: false
 image:
   filename: featured

@@ -10,12 +10,12 @@ authors:
   - Xinlun Cai
 doi: 10.1109/JLT.2021.3100254
 publication: "*Journal of Lightwave Technology, 40* 339-345 (2022)"
+url: "https://ieeexplore.ieee.org/document/9497664"
+draft: false
 tags:
 - Electro-optic modulators
 - Thin-film lithium niobate
 - Optical frequency comb
-url: "https://ieeexplore.ieee.org/document/9497664"
-draft: false
 featured: false
 image:
   filename: featured
