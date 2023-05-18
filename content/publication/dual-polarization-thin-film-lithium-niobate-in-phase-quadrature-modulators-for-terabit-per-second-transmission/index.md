@@ -17,7 +17,7 @@ authors:
   - Liu Liu
   - Siyuan Yu
   - Bofang Zheng
-  - and Xinlun Cai
+  - Xinlun Cai
 doi: 10.1364/OPTICA.449691
 publication: "*Optica, 9* (1) 61-62 (2022)"
 abstract: We report, to our knowledge, the first dual-polarization thin-film lithium niobate coherent modulator for next-generation optical links with sub-1-V driving voltage and 110-GHz bandwidth, enabling a record single-wavelength 1.96-Tb/s net data rate with ultrahigh energy efficiency.
@@ -27,10 +27,11 @@ tags:
 - Coherent transmission
 draft: false
 featured: false
+url: "http://www.osapublishing.org/optica/abstract.cfm?URI=optica-9-1-61"
 
 image:
   filename: pdmiq.jpg
   focal_point: Center
   preview_only: false
-date: 2023-05-17T23:15:40.798Z
+date: 2022-01-10T23:15:40.798Z
 ---

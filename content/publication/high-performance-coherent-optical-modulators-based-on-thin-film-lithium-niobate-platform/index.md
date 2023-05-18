@@ -3,8 +3,23 @@ title: High-performance coherent optical modulators based on thin-film lithium
   niobate platform
 publication_types:
   - "2"
+authors:
+  - admin
+  - Mingbo He
+  - Honggang Zhang
+  - Jian Jian
+  - Ying Pan
+  - Xiaoyue Liu
+  - Lifeng Chen
+  - Xiangyu Meng
+  - Hui Chen
+  - Zhaohui Li
+  - Xi Xiao
+  - Shaohua Yu
+  - Siyuan Yu
+  - Xinlun Cai
 doi: 10.1038/s41467-020-17806-0
-publication: Nature Communications
+publication: "*Nature Communications, 11*" 3911 (2020)"
 abstract: The coherent transmission technology using digital signal processing
   and advanced modulation formats, is bringing networks closer to the
   theoretical capacity limit of optical fibres, the Shannon limit. The
@@ -20,6 +35,7 @@ abstract: The coherent transmission technology using digital signal processing
   support modulation data rate up to 320 Gbit s−1. Our devices pave new routes
   for future high-speed, energy-efficient, and cost-effective communication
   networks.
+url: "https://doi.org/10.1038/s41467-020-17806-0"
 draft: false
 featured: false
 image:
