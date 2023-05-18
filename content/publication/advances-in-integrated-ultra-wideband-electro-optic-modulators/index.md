@@ -19,6 +19,8 @@ abstract: Increasing data traffic and bandwidth-hungry applications require
   recent advances.
 draft: false
 featured: false
+tags:
+  - Reviewpaper;electrooptic modulator;optical communications
 image:
   filename: featured
   focal_point: Smart
