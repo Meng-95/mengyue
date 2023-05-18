@@ -1,7 +1,6 @@
 ---
 title: "Flat Optical Frequency Comb Generator Based on Integrated Lithium Niobate Modulators"
-publication_types:
-  - "2"
+publication_types: ["2"]
 authors:
   - admin
   - Mingbo He
@@ -22,5 +21,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-05-18T00:25:53.420Z
+date: 2021-07-21T00:25:53.420Z
 ---

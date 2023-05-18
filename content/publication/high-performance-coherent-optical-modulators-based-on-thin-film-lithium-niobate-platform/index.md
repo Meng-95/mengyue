@@ -1,7 +1,6 @@
 ---
 title: "High-performance coherent optical modulators based on thin-film lithium niobate platform"
-publication_types:
-  - "2"
+publication_types: ["2"]
 authors:
   - admin
   - Mingbo He
@@ -45,5 +44,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-05-18T00:26:48.905Z
+date: 2020-08-06T00:26:48.905Z
 ---
