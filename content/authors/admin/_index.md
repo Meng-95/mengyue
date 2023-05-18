@@ -29,7 +29,6 @@ bio: My research interests include diamond/SiC integrated quantum photonics; Pho
 interests:
   - Integrated Photonics
   - Quantum Photonics
-  - Quantum sesing
   - Spin defects
   - Electro-optic Modulation
   - Optical Communications
