@@ -8,9 +8,9 @@ authors:
   - Mingbo He
   - Yuntao Zhu
   - Siyuan Yu
-  - and Xinlun Cai
+  - Xinlun Cai
 doi: 10.1109/JLT.2021.3100254
-publication: "*Journal of Lightwave Technology 40* 339-345 (2022)."
+publication: "*Journal of Lightwave Technology 40*, 339-345 (2022)"
 publication_short: ""
 abstract: Chip-scale electro-optic (EO) frequency combs are expected to play an
   essential role in future high-capacity optical communications systems and
@@ -26,9 +26,13 @@ abstract: Chip-scale electro-optic (EO) frequency combs are expected to play an
   to 67 GHz.
 draft: false
 featured: false
+tags:
+  - Optical frequency comb
+  - Thin film lithium niobate
+  - Electrooptic modulator
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-05-18T01:30:57.693Z
+date: 2021-07-22T01:30:00.000Z
 ---
