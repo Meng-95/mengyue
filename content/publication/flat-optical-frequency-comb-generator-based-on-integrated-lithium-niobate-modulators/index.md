@@ -6,7 +6,6 @@ authors:
   - Mingbo He
   - Yuntao Zhu
   - Siyuan Yu
-  - Siyuan Yu
   - Xinlun Cai
 doi: 10.1109/JLT.2021.3100254
 publication: "*Journal of Lightwave Technology, 40* 339-345 (2022)"
