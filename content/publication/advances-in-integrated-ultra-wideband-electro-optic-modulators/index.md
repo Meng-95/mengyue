@@ -1,6 +1,7 @@
 ---
-title: "Advances in integrated ultra-wideband electro-optic modulators"
-publication_types: ["2"]
+title: Advances in integrated ultra-wideband electro-optic modulators
+publication_types:
+  - "2"
 authors:
   - admin
   - Xinlun Cai
@@ -16,15 +17,15 @@ abstract: Increasing data traffic and bandwidth-hungry applications require
   optical systems. By comparing the superiority and mechanism limitations of
   different integrated modulators, we design a future roadmap based on the
   recent advances.
-url: "http://opg.optica.org/oe/abstract.cfm?URI=oe-30-5-7253"
 draft: false
-tags:
-- Electro-optic modulators
-- Optical communications
 featured: false
+tags:
+  - Electro-optic modulators
+  - Optical communications
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-02-17T00:24:21.646Z
+date: 2023-05-18T01:12:35.459Z
+url: http://opg.optica.org/oe/abstract.cfm?URI=oe-30-5-7253
 ---
