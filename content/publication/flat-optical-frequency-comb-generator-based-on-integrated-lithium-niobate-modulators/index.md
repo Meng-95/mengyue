@@ -4,7 +4,7 @@ title: Flat Optical Frequency Comb Generator Based on Integrated Lithium Niobate
 publication_types:
   - "2"
 authors:
-  - Mengyue Xu
+  - admin
   - Mingbo He
   - Yuntao Zhu
   - Siyuan Yu
