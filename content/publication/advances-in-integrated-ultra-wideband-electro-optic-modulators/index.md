@@ -1,7 +1,6 @@
 ---
-title: Advances in integrated ultra-wideband electro-optic modulators
-publication_types:
-  - "2"
+title: "Advances in integrated ultra-wideband electro-optic modulators"
+publication_types: ["2"]
 authors:
   - admin
   - Xinlun Cai
