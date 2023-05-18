@@ -1,6 +1,5 @@
 ---
-title: High-performance coherent optical modulators based on thin-film lithium
-  niobate platform
+title: High-performance coherent optical modulators based on thin-film lithium niobate platform
 publication_types:
   - "2"
 authors:
