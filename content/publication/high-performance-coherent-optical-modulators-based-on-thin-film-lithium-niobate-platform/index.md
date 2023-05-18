@@ -35,6 +35,10 @@ abstract: The coherent transmission technology using digital signal processing
   for future high-speed, energy-efficient, and cost-effective communication
   networks.
 url: "https://doi.org/10.1038/s41467-020-17806-0"
+tags:
+- Electro-optic modulators
+- Thin-film lithium niobate
+- Coherent transmission
 draft: false
 featured: false
 image:
