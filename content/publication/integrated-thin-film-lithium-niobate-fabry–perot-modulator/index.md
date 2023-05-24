@@ -11,7 +11,7 @@ authors:
   - Siyuan Yu
   - Xinlun Cai
 doi: col-19-6-060003
-publication: "*Chinese Optics Letters 19*, 060003"
+publication: "*Chinese Optics Letters 19*, 060003 (2021)"
 abstract: Integrated traveling-wave lithium niobate modulators need relatively
   large device lengths to achieve low drive voltage. To increase modulation
   efficiency within a compact footprint, we report an integrated

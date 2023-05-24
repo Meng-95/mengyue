@@ -15,7 +15,7 @@ authors:
   - Siyuan Yu
   - Xinlun Cai
 doi: 10.1063/1.5115136
-publication: "*APL Photonics 4*, 100802"
+publication: "*APL Photonics 4*, 100802 (2019)"
 abstract: We propose and demonstrate a hybrid silicon and lithium niobate
   Michelson interferometer modulator (MIM) with a reduced half-wave
   voltage-length product compared to a Mach-Zehnder modulator. The modulator is

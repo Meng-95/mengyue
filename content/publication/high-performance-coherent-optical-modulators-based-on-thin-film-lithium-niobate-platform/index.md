@@ -19,7 +19,7 @@ authors:
   - Siyuan Yu
   - Xinlun Cai
 doi: 10.1038/s41467-020-17806-0
-publication: "*Nature Communications 11*, 3911"
+publication: "*Nature Communications 11*, 3911 (2020)"
 abstract: The coherent transmission technology using digital signal processing
   and advanced modulation formats, is bringing networks closer to the
   theoretical capacity limit of optical fibres, the Shannon limit. The
