@@ -1,6 +1,6 @@
 ---
 title: High-performance hybrid silicon and lithium niobate Mach–Zehnder
-  modulators for 100 Gbit s^{−1} and beyond
+  modulators for 100 Gbit s<sup>-1</sup> and beyond
 publication_types:
   - "2"
 authors:
