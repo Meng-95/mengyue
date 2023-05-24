@@ -20,7 +20,7 @@ abstract: Increasing data traffic and bandwidth-hungry applications require
 draft: false
 featured: false
 tags:
-  - Reviewpaper
+  - Review paper
   - Electrooptic modulator
   - Optical communications
 image:
