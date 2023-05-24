@@ -7,7 +7,8 @@ authors:
   - Xinlun Cai
 doi: 10.1364/OE.449022
 publication: "*Optics Express 30*, 7253-7274 (2022)"
-abstract: Increasing data traffic and bandwidth-hungry applications require
+abstract: >-
+  Increasing data traffic and bandwidth-hungry applications require
   electro-optic modulators with ultra-wide modulation bandwidth for
   cost-efficient optical networks. Thus far, integrated solutions have emerged
   to provide high bandwidth and low energy consumption in compact sizes. Here,
@@ -17,6 +18,8 @@ abstract: Increasing data traffic and bandwidth-hungry applications require
   optical systems. By comparing the superiority and mechanism limitations of
   different integrated modulators, we design a future roadmap based on the
   recent advances.
+
+  {style="text-align: justify;"}
 draft: false
 featured: false
 tags:
