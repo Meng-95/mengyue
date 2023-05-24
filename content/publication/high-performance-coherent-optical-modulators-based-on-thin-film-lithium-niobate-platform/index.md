@@ -37,6 +37,10 @@ abstract: The coherent transmission technology using digital signal processing
   networks.
 draft: false
 featured: false
+tags:
+  - Coherent transmission
+  - Electrooptic modulator
+  - Thin film lithium niobate
 image:
   filename: featured
   focal_point: Smart
