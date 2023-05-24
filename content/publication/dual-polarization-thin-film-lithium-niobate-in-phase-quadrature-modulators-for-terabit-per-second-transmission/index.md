@@ -27,7 +27,10 @@ abstract: We report, to our knowledge, the first dual-polarization thin-film
 draft: false
 featured: false
 tags:
-  - Coherent transmission; Electrooptic modulator; Thin film lithium niobate
+  - Coherent transmission
+  - Electrooptic modulator
+  - Thin film lithium niobate
+  - Polarization multiplexing
 image:
   filename: featured
   focal_point: Smart
