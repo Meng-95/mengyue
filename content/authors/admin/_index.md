@@ -52,4 +52,4 @@ Throughout her Ph.D., Mengyue Xu concentrated her research on thin-film lithium 
 
 
 Mengyue has published over 20 journal papers, delivered two invited talks at leading international conferences, and holds two patents. Mengyue is a recipient of the 2022 Tingye Li Memorial Scholarship, China’s Top Ten Advances in Optics in 2019, 2020, and 2022, National Scholarship from the Ministry of Education of China in 2021, OFC top-scored paper in 2022 and Person of the Year of 2021 at Sun Yat-sen University.
-{style="text-align: justify;"}
+{style="text-align: center;"}
