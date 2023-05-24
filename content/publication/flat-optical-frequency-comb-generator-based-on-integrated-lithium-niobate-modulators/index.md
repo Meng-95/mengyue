@@ -12,7 +12,8 @@ authors:
 doi: 10.1109/JLT.2021.3100254
 publication: "*Journal of Lightwave Technology 40*, 339-345 (2022)"
 publication_short: ""
-abstract: Chip-scale electro-optic (EO) frequency combs are expected to play an
+abstract: >-
+  Chip-scale electro-optic (EO) frequency combs are expected to play an
   essential role in future high-capacity optical communications systems and
   next-generation mobile communications. The application requires integrated EO
   frequency comb generators featuring good spectral flatness, high modulation
@@ -24,6 +25,7 @@ abstract: Chip-scale electro-optic (EO) frequency combs are expected to play an
   of less than 2W, the presented device produces 13 lines with a power variation
   of less than 1.2 dB and a line spacing of 31 GHz which can further be extended
   to 67 GHz.
+    {style="text-align: justify;"}
 draft: false
 featured: false
 tags:
