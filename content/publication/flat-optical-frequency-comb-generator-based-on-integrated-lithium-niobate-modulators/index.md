@@ -10,7 +10,7 @@ authors:
   - Siyuan Yu
   - Xinlun Cai
 doi: 10.1109/JLT.2021.3100254
-publication: "*Journal of Lightwave Technology 40*, 339-345"
+publication: "*Journal of Lightwave Technology 40*, 339-345 (2022)"
 publication_short: ""
 abstract: Chip-scale electro-optic (EO) frequency combs are expected to play an
   essential role in future high-capacity optical communications systems and
