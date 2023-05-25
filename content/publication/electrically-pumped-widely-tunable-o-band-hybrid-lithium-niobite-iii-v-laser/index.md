@@ -34,8 +34,8 @@ featured: false
 tags:
   - III-V
   - laser
-  - heterogenous integration
-  - thin film lithium niobate
+  - Heterogenous integration
+  - Thin film lithium niobate
 image:
   filename: featured
   focal_point: Smart
