@@ -19,9 +19,7 @@ authors:
   - Chuan Liu
   - Siyuan Yu
   - Xinlun Cai
-author_notes:
-  - Polarization management
-  - thin-film lithium niobate
+author_notes: []
 doi: 10.1364/OL.454277
 publication: "*Optics Letters 47*, 1818-1821 (2022)"
 abstract: >-
