@@ -36,7 +36,8 @@ tags:
   - Polarization multiplexing
 image:
   filename: pdmiq.jpg
-  focal_point: Smart
+  focal_point: ''
   preview_only: false
+
 date: 2022-01-11T02:28:00.000Z
 ---
