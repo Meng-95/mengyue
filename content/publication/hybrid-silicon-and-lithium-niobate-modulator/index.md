@@ -27,7 +27,7 @@ draft: false
 featured: false
 tags:
   - Review paper
-  - heterogenous integration
+  - Heterogenous integration
 image:
   filename: featured
   focal_point: Smart
