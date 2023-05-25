@@ -31,7 +31,7 @@ draft: false
 featured: false
 tags:
   - Optical swicth
-  - Hetergenous integration
+  - Heterogenous integration
 image:
   filename: featured
   focal_point: Smart
