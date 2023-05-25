@@ -38,7 +38,7 @@ draft: false
 featured: false
 tags:
   - Heterogenous integration
-  - electrooptic modulator
+  - Electrooptic modulator
 image:
   filename: featured
   focal_point: Smart
