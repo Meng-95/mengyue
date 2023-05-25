@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Ying Pan
   - Mingbo He
-  - Mengyue Xu
+  - admin
   - Zhongjin Lin
   - Yanmei Lin
   - Wei Ke
@@ -18,7 +18,7 @@ authors:
   - Xiaoyue Liu
   - Chuan Liu
   - Siyuan Yu
-  - and Xinlun Cai
+  - Xinlun Cai
 doi: 10.1364/OL.454277
 publication: "*Optics Letters 47*, 1818-1821 (2022)"
 abstract: >-
