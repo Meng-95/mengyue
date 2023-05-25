@@ -1,7 +1,7 @@
 ---
 title: Ultra-high-speed Electro-optic Modulation Based on Thin-film Lithium Niobate
 abstract: Invited talk
-location: Shenzhen, China
+location: Asia Communications and Photonics Conference (ACP 2022), Shenzhen, China
 date: 2023-05-25T23:39:28.197Z
 date_end: 2023-05-25T23:39:00.000Z
 all_day: false
