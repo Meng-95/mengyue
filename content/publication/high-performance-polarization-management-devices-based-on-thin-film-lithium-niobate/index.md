@@ -19,7 +19,7 @@ authors:
   - Siyuan Yu
   - Xinlun Cai
 doi: 10.1038/s41377-022-00779-8
-publication: "*Light: Science & Applications 11*, 93 (2022)."
+publication: "*Light: Science & Applications 11*, 93 (2022)"
 abstract: >-
   High-speed polarization management is highly desirable for many applications,
   such as remote sensing, telecommunication, and medical diagnosis. However,
