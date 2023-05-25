@@ -35,10 +35,10 @@ tags:
   - Thin film lithium niobate
   - Polarization multiplexing
 image:
-  placement: 3
+  placement: 1
   filename: pdmiq.jpg
   focal_point: 'center'
-  preview_only: ture
+  preview_only: false
   
 
 date: 2022-01-11T02:28:00.000Z
