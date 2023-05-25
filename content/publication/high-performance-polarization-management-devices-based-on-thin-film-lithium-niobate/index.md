@@ -7,7 +7,7 @@ authors:
   - Zhongjin Lin
   - Yanmei Lin
   - Hao Li
-  - Mengyue Xu
+  - admin
   - Mingbo He
   - Wei Ke
   - Heyun Tan
