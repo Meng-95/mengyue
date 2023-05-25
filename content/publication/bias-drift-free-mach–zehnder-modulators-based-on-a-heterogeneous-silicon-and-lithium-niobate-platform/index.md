@@ -39,7 +39,8 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - Hetergenous integration
+  - Heterogenous integration
+  - Silicon photonics
 image:
   filename: featured
   focal_point: Smart
