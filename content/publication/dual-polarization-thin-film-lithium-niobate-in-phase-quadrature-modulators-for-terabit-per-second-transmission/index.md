@@ -37,7 +37,7 @@ tags:
 image:
   placement: 3
   filename: pdmiq.jpg
-  focal_point: 'center'
+  focal_point: ''
   preview_only: false
   
 
