@@ -46,7 +46,7 @@ highlight_name: true
 first_name: Mengyue
 email: ""
 ---
-Mengyue Xu is currently a **postdoctoral researcher** at the OxideMEMS Lab at ***Purdue University*** since Feb 2023, advised by **Prof. Sunil Bhave**. She obtained her Ph.D. in Microelectronics and Solid State Electronics in 2022 from the State Key Laboratory of Optoelectronic Materials and Technologies at ***Sun Yat-sen University***, China, where she worked under the supervision of **Prof. Xinlun Cai**.
+Mengyue Xu is currently a **postdoctoral researcher** at the OxideMEMS Lab at ***Purdue University*** since Feb 2023, advised by **Prof. Sunil Bhave**. She obtained her Ph.D. in Microelectronics and Solid State Electronics in June 2022 from the State Key Laboratory of Optoelectronic Materials and Technologies at ***Sun Yat-sen University***, China, where she worked under the supervision of **Prof. Xinlun Cai**.
 {style="text-align: justify;"}
 
 Throughout her Ph.D., Mengyue Xu concentrated her research on **thin-film lithium niobate (TFLN)** photonics and **heterogeneous Si/TFLN** photonics, particularly their applications in optical communication systems. She significantly contributed to the advancement of ultra-high-speed electro-optic **modulators** and efficient **optical frequency combs**, most notably the pioneering development of the first coherent modulator based on TFLN technology. Currently, she is engrossed in the exploration of quantum spin control of color centers in diamond and silicon carbide.
