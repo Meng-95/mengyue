@@ -43,10 +43,10 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - Hetergenous integration
-  - silicon photonics
-  - electrooptic modulator
-  - optical communications
+  - Heterogenous integration
+  - Silicon photonics
+  - Electrooptic modulator
+  - Optical communications
 image:
   filename: featured
   focal_point: Smart
