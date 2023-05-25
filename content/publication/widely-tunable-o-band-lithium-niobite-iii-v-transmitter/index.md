@@ -33,7 +33,7 @@ featured: false
 tags:
   - Laser
   - III-V
-  - thin film lithium niobate
+  - Thin film lithium niobate
 image:
   filename: featured
   focal_point: Smart
