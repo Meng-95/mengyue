@@ -39,6 +39,7 @@ tags:
   - Hetergenous integration
   - Electrooptic modulator
   - Optical communications
+  - silicon photonics
 image:
   filename: featured
   focal_point: Smart
