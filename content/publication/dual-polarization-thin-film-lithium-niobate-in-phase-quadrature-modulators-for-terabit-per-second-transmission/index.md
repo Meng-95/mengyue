@@ -28,7 +28,7 @@ abstract: >-
 
   {style="text-align: justify;"}
 draft: false
-featured: false
+featured: true
 tags:
   - Coherent transmission
   - Electrooptic modulator
