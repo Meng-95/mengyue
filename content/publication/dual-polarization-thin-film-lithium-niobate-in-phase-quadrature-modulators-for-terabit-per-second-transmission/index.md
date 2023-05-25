@@ -37,8 +37,8 @@ tags:
 image:
   placement: 3
   filename: pdmiq.jpg
-  focal_point: ''
-  preview_only: false
+  focal_point: 'center'
+  preview_only: ture
   
 
 date: 2022-01-11T02:28:00.000Z
