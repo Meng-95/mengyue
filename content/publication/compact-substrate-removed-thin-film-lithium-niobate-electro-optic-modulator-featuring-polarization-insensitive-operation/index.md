@@ -20,7 +20,7 @@ authors:
   - Siyuan Yu
   - and Xinlun Cai
 doi: 10.1364/OL.454277
-publication: '"Optics Letters 47", 1818-1821 (2022)'
+publication: "*Optics Letters 47*, 1818-1821 (2022)"
 abstract: >-
   A compact polarization-insensitive electro-optic (EO) modulator, which allows
   the laser and modulator to be located at different locations while using a
@@ -35,6 +35,10 @@ abstract: >-
   {style="text-align: justify;"}
 draft: false
 featured: false
+tags:
+  - Thin film lithium niobate
+  - Electrooptic modulator
+  - Polarization management
 image:
   filename: featured
   focal_point: Smart
