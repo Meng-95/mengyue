@@ -13,7 +13,9 @@ authors:
   - Siyuan Yu
   - Ruijun Wang
   - Xinlun Cai
-publication_short: "*Optics Letters 46*, 5413-5416 (2021)."
+doi: 10.1364/OL.442281
+publication: "*Optics Letters 46*, 5413-5416 (2021)."
+publication_short: ""
 abstract: >-
   Significant improvements in the lithium niobate on insulator (LNOI) platform
   are pushing LNOI-based laser sources to the forefront of integrated photonics.
