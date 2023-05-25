@@ -35,8 +35,8 @@ draft: false
 featured: false
 tags:
   - Electrooptic modulator
-  - Hetergenous integration
-  - silicon photonics
+  - Heterogenous integration
+  - Silicon photonics
 image:
   filename: featured
   focal_point: Smart
