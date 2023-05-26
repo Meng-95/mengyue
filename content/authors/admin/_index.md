@@ -44,7 +44,7 @@ status:
 last_name: Xu
 highlight_name: true
 first_name: Mengyue
-email: ""
+email: "xu1733@purdue.edu"
 ---
 Mengyue Xu is currently a **postdoctoral researcher** at the OxideMEMS Lab at ***Purdue University*** since Feb 2023, advised by **Prof. Sunil Bhave**. She obtained her Ph.D. in Microelectronics and Solid State Electronics in June 2022 from the State Key Laboratory of Optoelectronic Materials and Technologies at ***Sun Yat-sen University***, China, where she worked under the supervision of **Prof. Xinlun Cai**.
 {style="text-align: justify;"}
