@@ -56,4 +56,4 @@ Mengyue has published over 20 journal papers, delivered two invited talks at lea
 {style="text-align: justify;"}
 
 * **Journal Reviewer** for *Nature Communications*, *Optics Letters*, *Optics Express*, *Applied Optics*, *Photonics*, *Crystals*, *SN Applied Sciences*, *Sensor*, *Sustainability*, *Micromachines*, *Optical Materials Express*.
-* **Guest editor** for [*Photonics*- Special Issue “Optical Modulation”](<* https://www.mdpi.com/journal/photonics/special_issues/NV3I2T16PF>).
+* **Guest editor** for [*Photonics* - Special Issue “Optical Modulation”](https://www.mdpi.com/journal/photonics/special_issues/NV3I2T16PF).
