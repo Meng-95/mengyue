@@ -106,14 +106,14 @@ sections:
           organization_url: https://psc-sc.org/about-psc/
           title: Tingye Li Memorial Scholarship
           url: 'https://psc-sc.org/tingye-li-memorial-scholarship-announcement-and-winners/'
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2023-04-20'
+          description: "Dual-polarization Thin-film Lithium Niobate IQ modulator for Terabit-per-second Transmission" was selected as China’s Top Ten Advances in Optics.
+          organization:
+          organization_url:
+          title: China’s Top Ten Advances in Optics 2022 中国光学十大进展
+          url: https://www.opticsjournal.net/CL/ZGGX?type=view&postid=PT230420000003jGmJp
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
