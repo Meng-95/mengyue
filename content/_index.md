@@ -88,7 +88,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -98,13 +98,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://psc-sc.org/tingye-li-memorial-scholarship-announcement-and-winners/
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+          date_start: '2021-06-08'
+          description: 'Mengyue Xu was nominated by Prof. Xinlun Cai for her exceptional contributions to Thin-film Lithium Niobate Electro-optic devices for Coherent Optical Communication'
           organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization_url: https://psc-sc.org/about-psc/
+          title: Tingye Li Memorial Scholarship
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
