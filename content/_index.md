@@ -98,14 +98,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://psc-sc.org/tingye-li-memorial-scholarship-announcement-and-winners/
+        - certificate_url:
           date_end: ''
           date_start: '2021-06-08'
-          description: 'Mengyue Xu was nominated by Prof. Xinlun Cai for her exceptional contributions to Thin-film Lithium Niobate Electro-optic devices for Coherent Optical Communication'
+          description: 'Mengyue Xu was nominated by Prof. Xinlun Cai for her exceptional contributions to Thin-film Lithium Niobate Electro-optic devices for Coherent Optical Communication.'
           organization: Photonics Society of Chinese Heritage (PSC)
           organization_url: https://psc-sc.org/about-psc/
           title: Tingye Li Memorial Scholarship
-          url: ''
+          url: 'https://psc-sc.org/tingye-li-memorial-scholarship-announcement-and-winners/'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
