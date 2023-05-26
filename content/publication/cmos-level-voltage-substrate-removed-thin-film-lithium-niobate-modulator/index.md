@@ -15,6 +15,7 @@ abstract: >-
   half-wave voltage and 1.4 dB EO response roll-off at 50 GHz.
 
   {style="text-align: justify;"}
+url_source: https://ieeexplore.ieee.org/document/9748731
 draft: false
 featured: false
 image:
