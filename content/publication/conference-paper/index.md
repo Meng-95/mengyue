@@ -1,54 +1,49 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
-slides: example
+abstract: >-
+  We report the first integrated LN DP-IQ modulator with 1-V Vπ and
+  electro-optic response with 1.7 dB roll-off at 67 GHz. We achieve 1.56 Tb/s
+  line rate without electrical driver using 130 GBaud DP-64QAM.
+
+  {style="text-align: justify;"}
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
 authors:
   - admin
-  - Robert Ford
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: In *Wowchemy Conference*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+  - Fabio Pittalà
+  - Jin Tang
+  - Yuntao Zhu
+  - Mingbo He
+  - Wing Chau Ng
+  - Ziliang Ruan
+  - Xuefeng Tang
+  - Maxim Kuschnerov
+  - Liu Liu
+  - Siyuan Yu
+  - Bofang Zheng
+  - Xinlun Cai
+author_notes: []
+publication: In *Optical Fiber Communication Conference*, p. Th1J.2.
+summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *OFC*
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
-title: An example conference paper
+title: Thin-Film Lithium Niobate DP-IQ Modulator for Driverless 130 Gbaud 64 QAM
+  Transmission
 doi: ""
 featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2022-03-07T01:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
