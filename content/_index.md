@@ -102,7 +102,7 @@ sections:
           date_end: ''
           date_start: '2021-06-08'
           description: 'Mengyue Xu was nominated by Prof. Xinlun Cai for her exceptional contributions to Thin-film Lithium Niobate Electro-optic devices for Coherent Optical Communication'
-          organization: Coursera
+          organization: Photonics Society of Chinese Heritage (PSC)
           organization_url: https://psc-sc.org/about-psc/
           title: Tingye Li Memorial Scholarship
           url: ''
