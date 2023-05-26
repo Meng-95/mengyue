@@ -114,17 +114,8 @@ sections:
           organization_url:
           title: China’s Top Ten Advances in Optics 2022 中国光学十大进展
           url: 'https://www.opticsjournal.net/CL/ZGGX?type=view&postid=PT230420000003jGmJp'
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
     design:
       columns: '2'
-      view: list
   # - block: collection
   #   id: posts
   #   content:
