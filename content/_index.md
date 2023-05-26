@@ -110,7 +110,7 @@ sections:
           date_end: ''
           date_start: '2023-04-20'
           description: "Dual-polarization Thin-film Lithium Niobate IQ modulator for Terabit-per-second Transmission" was selected as China’s Top Ten Advances in Optics.
-          organization:
+          organization: Chinese Laser Press
           organization_url:
           title: China’s Top Ten Advances in Optics 2022 中国光学十大进展
           url: https://www.opticsjournal.net/CL/ZGGX?type=view&postid=PT230420000003jGmJp
