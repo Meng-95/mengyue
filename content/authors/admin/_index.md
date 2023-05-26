@@ -44,13 +44,16 @@ status:
 last_name: Xu
 highlight_name: true
 first_name: Mengyue
-email: "xu1733@purdue.edu"
+email: xu1733@purdue.edu
 ---
-Mengyue Xu is currently a **postdoctoral researcher** at the OxideMEMS Lab at ***Purdue University*** since Feb 2023, advised by **Prof. Sunil Bhave**. She obtained her Ph.D. in Microelectronics and Solid State Electronics in June 2022 from the State Key Laboratory of Optoelectronic Materials and Technologies at ***Sun Yat-sen University***, China, where she worked under the supervision of **Prof. Xinlun Cai**.
+Mengyue Xu is currently a **postdoctoral researcher** at the [OxideMEMS Lab](https://engineering.purdue.edu/oxidemems/index.html) at ***Purdue University*** since Feb 2023, advised by **Prof. Sunil Bhave**. She obtained her Ph.D. in Microelectronics and Solid State Electronics in June 2022 from the State Key Laboratory of Optoelectronic Materials and Technologies at ***Sun Yat-sen University***, China, where she worked under the supervision of **Prof. Xinlun Cai**.
 {style="text-align: justify;"}
 
 Throughout her Ph.D., Mengyue Xu concentrated her research on **thin-film lithium niobate (TFLN)** photonics and **heterogeneous Si/TFLN** photonics, particularly their applications in optical communication systems. She significantly contributed to the advancement of ultra-high-speed electro-optic **modulators** and efficient **optical frequency combs**, most notably the pioneering development of the first coherent modulator based on TFLN technology. Currently, she is engrossed in the exploration of quantum spin control of color centers in diamond and silicon carbide.
 {style="text-align: justify;"}
 
-Mengyue has published over 20 journal papers, delivered two invited talks at leading international conferences, and holds two patents. Mengyue is a recipient of the 2022 **Tingye Li Memorial Scholarship**, **China’s Top Ten Advances in Optics 2019**, **2020**, and **2022**, National Scholarship from the Ministry of Education of China in 2021, OFC top-scored paper in 2022 and Person of the Year of 2021 at Sun Yat-sen University.
+Mengyue has published over 20 journal papers, delivered two invited talks at leading international conferences, and holds two patents. Mengyue is a recipient of the 2022 [**Tingye Li Memorial Scholarship**,](https://psc-sc.org/tingye-li-memorial-scholarship-announcement-and-winners/) **China’s Top Ten Advances in Optics 2019**, **2020**, and **2022**, National Scholarship from the Ministry of Education of China in 2021, OFC top-scored paper in 2022 and Person of the Year of 2021 at Sun Yat-sen University.
 {style="text-align: justify;"}
+
+* **Journal Reviewer** for *Nature Communications*, *Optics Letters*, *Optics Express*, *Applied Optics*, *Photonics*, *Crystals*, *SN Applied Sciences*, *Sensor*, *Sustainability*, *Micromachines*, *Optical Materials Express*.
+* **Guest editor** for [*Photonics*- Special Issue “Optical Modulation”](<* https://www.mdpi.com/journal/photonics/special_issues/NV3I2T16PF>).
