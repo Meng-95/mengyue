@@ -3,7 +3,7 @@ title: CMOS-level-voltage Substrate-removed Thin-film Lithium Niobate Modulator
 publication_types:
   - "1"
 authors:
-  - Mengyue Xu
+  - admin
   - Shengqian Gao
   - Heyun Tan
   - Xinlun Cai
