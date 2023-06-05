@@ -84,7 +84,6 @@ sections:
     design:
       columns: '2'
       view: citation
-      
   - block: collection
     id: talks
     content:
@@ -95,11 +94,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
 
   - block: accomplishments
     content:
@@ -158,6 +152,12 @@ sections:
           organization_url:
           title: Annual Third Prize, Light Doctoral Academic League (Final)
           url: 'https://www.lightpublishing.cn/conference2022?lang=en'
+    design:
+      columns: '2'
+
+  - block: tag_cloud
+    content:
+      title: Popular Topics
     design:
       columns: '2'
   # - block: collection
