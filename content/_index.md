@@ -116,6 +116,23 @@ sections:
           title: China’s Top Ten Advances in Optics 2022 中国光学十大进展
           url: 'https://www.opticsjournal.net/CL/ZGGX?type=view&postid=PT230420000003jGmJp'
 
+        - certificate_url: 
+          date_end: ''
+          date_start: '2020-03-20'
+          description: '"High-performance coherent optical modulators based on thin-film lithium niobate platform" was selected as China’s Top Ten Advances in Optics.'
+          organization: Chinese Laser Press
+          organization_url:
+          title: China’s Top Ten Advances in Optics 2020 中国光学十大进展
+          url: 'https://news.sciencenet.cn/htmlnews/2021/4/456647.shtm'
+
+        - certificate_url: 
+          date_end: ''
+          date_start: '2019-03-20'
+          description: '"High-performance hybrid silicon and lithium niobate Mach–Zehnder modulators for 100 Gbit s−1 and beyond" was selected as China’s Top Ten Advances in Optics.'
+          organization: Chinese Laser Press
+          organization_url:
+          title: China’s Top Ten Advances in Optics 2019 中国光学十大进展
+          url: 'https://news.sciencenet.cn/htmlnews/2020/3/437223.shtm'
     design:
       columns: '2'
   # - block: collection
