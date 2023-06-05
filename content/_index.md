@@ -88,7 +88,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Honors & Awards'
+      title: 'Selected Honors & Awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -137,7 +137,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2022-09-01'
-          description: 'Mengyue won the third place in Light Doctoral Academic League (Final) and the first place in Light Doctoral Academic League (semi-final).'
+          description: 'Mengyue won the fourth place in Light Doctoral Academic League (Final) and the first place in Light Doctoral Academic League (Semi-final).'
           organization: Light Publishing Group
           organization_url:
           title: Annual Third Prize, Light Doctoral Academic League (Final)
