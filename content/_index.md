@@ -133,6 +133,15 @@ sections:
           organization_url:
           title: China’s Top Ten Advances in Optics 2019 中国光学十大进展
           url: 'https://news.sciencenet.cn/htmlnews/2020/3/437223.shtm'
+
+        - certificate_url: 
+          date_end: ''
+          date_start: '2022-09-01'
+          description: 'Mengyue won the third place in Light Doctoral Academic League (Final) and the first place in Light Doctoral Academic League (semi-final).'
+          organization: Light Publishing Group
+          organization_url:
+          title: Annual Third Prize, Light Doctoral Academic League (Final)
+          url: 'https://www.lightpublishing.cn/conference2022?lang=en'
     design:
       columns: '2'
   # - block: collection
