@@ -42,7 +42,7 @@ tags:
   - Electrooptic modulator
 image:
   filename: 2023aplphotonics.jpg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
 date: 2023-06-07T16:44:00.000Z
 ---
