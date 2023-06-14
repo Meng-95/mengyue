@@ -41,6 +41,7 @@ tags:
   - Electrooptic modulator
   - Electrooptic modulator
 image:
+  placement: 3
   filename: 2023aplphotonics.jpg
   focal_point: center
   preview_only: false
