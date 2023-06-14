@@ -37,7 +37,9 @@ abstract: >-
 draft: false
 featured: true
 tags:
-  - Coherent transmission;Electrooptic modulator;Electrooptic modulator
+  - Coherent transmission
+  - Electrooptic modulator
+  - Electrooptic modulator
 image:
   filename: 2023aplphotonics.jpg
   focal_point: Smart
