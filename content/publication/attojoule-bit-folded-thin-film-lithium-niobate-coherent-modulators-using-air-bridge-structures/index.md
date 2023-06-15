@@ -22,8 +22,8 @@ abstract: >-
   small footprint, and low power operation are highly desired. Toward this end,
   we propose a folded thin-film lithium niobate (TFLN) dual-polarization
   in-phase quadrature modulator featuring a low half-wave voltage of 1 V and a
-  compact footprint of 4 × 8 mm2. To suppress RF wavefront distortion and
-  optimize high-frequency electro-optic performance, we utilize air-bridge
+  compact footprint of 4 × 8 mm<sup>2</sup>. To suppress RF wavefront distortion
+  and optimize high-frequency electro-optic performance, we utilize air-bridge
   structures in the U-turns of the traveling-wave electrodes. As a demonstration
   of the long-haul transmission capacities with our device, we present
   driverless 703 Gb/s/λ line-rate transmissions, with a subcarrier modulation
