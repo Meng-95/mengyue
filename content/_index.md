@@ -96,6 +96,7 @@ sections:
       view: compact
 
   - block: accomplishments
+    id: honor
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Selected Honors & Awards'
@@ -108,7 +109,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: accomplishment
+        - certificate_url:
           date_end: ''
           date_start: '2021-06-08'
           description: 'Mengyue Xu was nominated by Prof. Xinlun Cai for her exceptional contributions to Thin-film Lithium Niobate Electro-optic devices for Coherent Optical Communication.'
