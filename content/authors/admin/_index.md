@@ -10,7 +10,6 @@ interests:
   - Integrated Photonics
   - Quantum Photonics
   - Spin defects
-  - Electro-optic Modulation
   - Optical Communications
   - Thin-film Lithium Niobate
   - Optical Frequency Comb
