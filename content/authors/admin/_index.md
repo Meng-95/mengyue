@@ -6,7 +6,7 @@ bio: My research interests include diamond/SiC integrated quantum photonics;
   Photonics integrated device and circuits in thin-film lithium niobate and
   heterogenous platforms; Build up multi-functional photonics integrated
   circuits on multi-material platforms
-Research interests:
+interests:
   - Integrated Photonics
   - Quantum Photonics
   - Spin defects
