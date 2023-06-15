@@ -72,7 +72,7 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    gravatar: ture
     shape: circle
   comment:
     provider: ''
@@ -96,7 +96,7 @@ features:
   map:
     provider: ''
     api_key: ''
-    zoom: 5
+    zoom: 15
 
 # Extensions
 
