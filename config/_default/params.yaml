@@ -72,7 +72,7 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: ture
+    gravatar: flase
     shape: circle
   comment:
     provider: ''
